@@ -120,10 +120,12 @@ The validation accuracy obtained was 90.7%
 
 ### Leaderboard Ranking 
 
-The public leaderboard ranking: 12th with test accuracy of 89 %
+The public leaderboard ranking: 12th with test accuracy of 89%
+
 [![PublicLeaderboard](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/public_leaderboard.png "PublicLeaderboard")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/public_leaderboard.png "PublicLeaderboard")
 
 The private leaderboard ranking: 11th with test accuracy of 90%
+
 [![Private Leaderboard](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/private_leaderboard.png "Private Leaderboard")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/private_leaderboard.png "Private Leaderboard")
 
 
