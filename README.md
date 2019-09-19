@@ -64,8 +64,11 @@ The following were the 42 categories for classification.
 - Vegeta
 - Winnie the poo
 
+[![Categories](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/identify-product-characters.png "Categories")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/identify-product-characters.png "Categories")
+
 ### Confusion Matrix
 
+[![Confusion Matrix](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/identify_characters_confusion_matrix.png "Confusion Matrix")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/identify_characters_confusion_matrix.png "Confusion Matrix")
 
 Pair of confused categories with minimum value of 2
 
@@ -107,7 +110,9 @@ Pair of confused categories with minimum value of 2
  ('squirtle', 'teenage_mutant', 2),
  ('vegeta', 'goofy', 2)]
  
+
 #### Sample Images from the confused categories
+[![Misclassified Images](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/misclassified_sample_images.png "Misclassified Images")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/misclassified_sample_images.png "Misclassified Images")
 
 ### Accuracy
 
@@ -117,3 +122,12 @@ The validation accuracy obtained was 90.7%
 
 The public leaderboard ranking: 12th with test accuracy of 89 %
 The private leaderboard ranking: 11th with test accuracy of 90%
+
+
+
+
+
+
+
+
+
