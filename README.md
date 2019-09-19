@@ -1,7 +1,7 @@
-This project was done as a part of the [**Identify Characers From Product Images**](https://www.crowdanalytix.com/contests/identify-characters-from-product-images "**Identify Characers From Product Images**") competition. The competition was hosted in [**CrowdAnalyticsX**](https://www.crowdanalytix.com/community "**CrowdAnalyticsX**"). 
+This project was done as a part of the [**Identify Characers From Product Images**](https://www.crowdanalytix.com/contests/identify-characters-from-product-images "**Identify Characers From Product Images**") competition. The competition was hosted in [**CrowdAnalytix**](https://www.crowdanalytix.com/community "**CrowdAnalyticX**"). 
 
 
-### Data (Provided by CrowdAnalyticsX)
+### Data (Provided by CrowdAnalytix)
 
 The data consisted of product images like t-shirts, bags, keychains, mobile covers, etc. with characters graphics. 
 
@@ -12,10 +12,10 @@ The data had label inconsistency of 2-3%. Had to manually resolve the label inco
 
 ### Additional Data
 
-As the data provided by CrowdAnalytics was not equally distributed across the 42. Some categories had fewer data comparatively to the other categories. To resolve this data insufficiency among the categories we downloaded the additional data with the help of [gi2ds](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md "gi2ds")  and this [tutorial](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/ "tutorial") created by [Andrian Rosebrook](https://www.pyimagesearch.com/author/adrian/ "Andrian Rosebrook") . 
-
+As the data provided by CrowdAnalytix was not equally distributed across the 42. Some categories had fewer data comparatively to the other categories. To resolve this data insufficiency among the categories we downloaded the additional data with the help of [gi2ds](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md "gi2ds")  and this [tutorial](https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/ "tutorial") created by [Andrian Rosebrook](https://www.pyimagesearch.com/author/adrian/ "Andrian Rosebrook") . 
 
 You can download the data from [here](https://my.pcloud.com/publink/show?code=XZ2oPHkZdl53szTtWDBUeomYHofe85rC7KKV "here") (Comprises the data provided by CrowdAnalyticsX and the above mentioned additional data). The filenames of images from Crowdanalytix starts with Cax_train and the other images filenames start with number.
+
 
 ### Categories
 
