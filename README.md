@@ -128,6 +128,13 @@ The private leaderboard ranking: 11th with test accuracy of 90%
 
 [![Private Leaderboard](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/private_leaderboard.png "Private Leaderboard")](https://github.com/anubhavmaity/Identify-Characters-From-Product-Images/blob/master/private_leaderboard.png "Private Leaderboard")
 
+### Library Used
+
+fast.ai
+
+DL Techniques Used From fastai course
+
+
 
 
 
